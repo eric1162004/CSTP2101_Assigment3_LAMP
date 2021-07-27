@@ -1,6 +1,6 @@
-CREATE DATABASE test;
+-- CREATE DATABASE heroku_9df057ec49d00a5;
 
-use test;
+use heroku_9df057ec49d00a5;
 
 CREATE TABLE users (
 id INT(11) UNSIGNED AUTO_INCREMENT PRIMARY KEY,
